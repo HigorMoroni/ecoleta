@@ -14,3 +14,5 @@ class ItemsController {
     return response.json(serializedItems)
     }
 }
+
+export default ItemsController;
