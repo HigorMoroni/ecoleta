@@ -1,5 +1,6 @@
-//Minhas alterações:
+//Minhas alteraÃ§Ãµes:
 
 //Nome do estado no select
-//Posição inicial padrão
+//PosiÃ§Ã£o inicial padrÃ£o
 //Gerar estado e cidade a partir do ponto no mapa
+//Tela de cadastro concluido
