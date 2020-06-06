@@ -14,7 +14,6 @@ const itemsController = new ItemsController();
 
 routes.post('/points', upload.single('image'), pointsController.create);
 
-
 routes.get('/items', itemsController.index)
 routes.get('/points', pointsController.index)
 routes.get('/points/:id', pointsController.show)
