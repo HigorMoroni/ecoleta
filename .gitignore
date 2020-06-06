@@ -8,3 +8,6 @@ uploads/*
 
 Aula
 Docs
+
+*.reg
+*.bat

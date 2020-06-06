@@ -18,7 +18,7 @@ Ecoleta
   <a href="#licença">Licença</a> 
 </h3>
 
-<img src="./tumb/index.png" width="1200">
+<img src="./server/uploads/index.png" width="1200">
 
 ## :information_source: Sobre
 
