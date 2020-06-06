@@ -22,7 +22,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIndentifier": "com.higortech.ecoleta"
+      "bundleIdentifier": "com.higortech.ecoleta"
     },
     "android": {
       "package": "com.higortech.ecoleta"
