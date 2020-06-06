@@ -1,8 +1,8 @@
 node_modules
 .expo
 .expo-shared
-uploads/*
-!uploads/.gitkeep
+server/uploads/*
+!server/uploads/index.png
 
 *.sqlite
 
